@@ -6,6 +6,7 @@ This is a repository to store presentations and material for all my talks given 
 ## Talk on Free Software Introduction
 
 ## Talk on Java/Eclipse
+ * <b>'Basics of Java and Eclipse</b>' at DSCE on 18th April 2014.
 
 ## Talk on GIT
 
